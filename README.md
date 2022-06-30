@@ -1,1 +1,1 @@
-# Taller-de-dise-o-y-programaci-n-Abstracciones-interfaces-y-polimorfismo
+# Taller-de-diseño-y-programacion-Abstracciones-interfaces-y-polimorfismo
